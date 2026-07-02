@@ -1,7 +1,9 @@
-062825f770bbd8e9cb802ef3de23492f *DESCRIPTION
-00a2e78f954ae73f951689e4ecdf6c2c *NAMESPACE
+cf1f62e2e7e1777704129cdf7d52ea92 *DESCRIPTION
+afc3d8d2a2dc53cc3005576c66b92907 *NAMESPACE
+858219c30f618f8db75d726500192cb4 *NEWS.md
 5400b0f511f4386f509a8482b08750cd *R/okf-package.R
-797d26b2107b510078e3e993ed54667a *R/okf.R
+32af9a43391666ec20b365e3af73ebef *R/okf.R
+92aead850fb3a9b75a109035c55e710c *R/okf_diff.R
 57874c3fe5200693a657f885eeec70ca *R/okf_doctor.R
 fea6e725a043ca503d95092dc78060e6 *R/okf_graph.R
 0c119579419bce867a4c775f2e9df9b9 *R/okf_html.R
@@ -10,10 +12,12 @@ fea6e725a043ca503d95092dc78060e6 *R/okf_graph.R
 6c02029ff2c606eed01c4b2e22c9efda *man/okf_chunk_body.Rd
 d22bdd8a126f07e0192079c503d59d3d *man/okf_clusters.Rd
 aea1e9215e398c1f7cd08414ed9c8e47 *man/okf_context.Rd
+21ce91439827d9755278be3733f70c47 *man/okf_diff.Rd
 d6095334a9caf524ed1098f86a4e4d4f *man/okf_doctor.Rd
 93874d1d58ed6cbc90e5cf1c82d3151c *man/okf_doctor_fix.Rd
 03d2b640c9cf6b64c420ad994b0888b1 *man/okf_embed.Rd
 bcc4a31f33c234032bca04b01a51398b *man/okf_extract_links.Rd
+628ffba8586540ef790773bb22f06a75 *man/okf_extract_wikilinks.Rd
 37720b72a24208a0a6125f3408f41f65 *man/okf_fetch.Rd
 56375784a61ef7a89975331dcb5c3671 *man/okf_graph_html.Rd
 bb53c18646a21c6e6c379f0b4d107089 *man/okf_graph_json.Rd
@@ -21,7 +25,7 @@ bb53c18646a21c6e6c379f0b4d107089 *man/okf_graph_json.Rd
 c35b5196d0c2b2c90dee5c5a5b8a74e9 *man/okf_html.Rd
 d406cdb833ae9694c2aa2aaceb7c0b33 *man/okf_impact.Rd
 9fca7c5032b3f496acaf4e56cfa984e7 *man/okf_ingest.Rd
-d38929a1e1d51398d883e8112f244835 *man/okf_links.Rd
+8955560a61ca95379385a8a485b9f993 *man/okf_links.Rd
 c92c2a6a9a1bd15c651be39e232109f6 *man/okf_ollama_embedder.Rd
 8838cd52774662e233ffbb9da6d2c64d *man/okf_parse_file.Rd
 e221bb76edfc83a4fd0247d58f7c83e8 *man/okf_query.Rd
@@ -30,4 +34,4 @@ e221bb76edfc83a4fd0247d58f7c83e8 *man/okf_query.Rd
 61c158835b60c8b3df0af459b245cb47 *man/okf_resolve_link.Rd
 85a4e603986b91106f12f86b10e53f49 *man/okf_validate.Rd
 c9dc22ebbcee554aaf217504b0aa6894 *tests/testthat.R
-3c83a7f06c27b8879a9a170bbf6e7b3a *tests/testthat/test-core.R
+cd87221c163a72f8949ef1d34eaa9aea *tests/testthat/test-core.R

@@ -13,5 +13,6 @@ okf_links(rd)
 A data.frame with `src_path`, `dst_raw`, `dst_path`, `resolved`.
 }
 \description{
-Build the concept graph (resolved and broken links) for a bundle.
+Includes both markdown `](path)` links (resolved by path) and
+`[[wikilink]]` references (resolved by name: id / alias / title / stem).
 }
